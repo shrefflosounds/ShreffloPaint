@@ -1,6 +1,6 @@
-# ShreffloPaint 🎨✨
+# ShreffloPaint 🎨
 
-**ShreffloPaint** is a customized version of Tux Paint, featuring custom decals, sounds, stamps, and a new png to stamp Magic Tool, with the option to save to the stamp collection.
+**ShreffloPaint** is a customized version of TuxPaint, featuring custom decals, sounds, stamps, and a new png to stamp Magic Tool, with the option to save to the stamp collection.
 
 ---
 
@@ -43,4 +43,4 @@ You can add any PNG image directly into ShreffloPaint:
 ---
 
 ## 📜 License
-ShreffloPaint is based on Tux Paint (GPL v2+). Custom Shrefflo artwork, characters, audio, and branding © Shrefflo / Smitty Fantastic.
+ShreffloPaint is based on TuxPaint (GPL v2+). Custom Shrefflo artwork, characters, audio, and branding © Shrefflo / Smitty Fantastic.
